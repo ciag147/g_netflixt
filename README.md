@@ -2,19 +2,19 @@
 The movie viewing website project is a project developed using Laravel and MySQL, providing an online movie viewing platform for users. This website was developed to provide an interactive, user-friendly and convenient user interface, bringing the best online movie watching experience to users.
 
 ## Feature
-Displays movie list and movie details.
-Sort movies by genre, year of production and rating.
-Search for movies by name, genre or actors.
-Watch movies online in high quality, freely rate and share with social networks.
-Log in with facebook, gmail,...
-Upgrade to VIP to watch movies that require payment (VN PAY).
-Admin page with full functions for managing movies, users and transaction history.
+- Displays movie list and movie details.
+- Sort movies by genre, year of production and rating.
+- Search for movies by name, genre or actors.
+- Watch movies online in high quality, freely rate and share with social networks.
+- Log in with facebook, gmail,...
+- Upgrade to VIP to watch movies that require payment (VN PAY).
+- Admin page with full functions for managing movies, users and transaction history.
 
 ## Technology used
-Backend: Laravel
-Frontend: HTML, CSS, JavaScript
-Database: MySQL
-Authentication and Authorization: Laravel Passport (API Authentication)
+- Backend: Laravel
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
+- Authentication and Authorization: Laravel Passport (API Authentication)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
